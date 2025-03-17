@@ -1,0 +1,3 @@
+experience: Finish Zoox (leveraging = l&d, meetings, ref notes, non-ip tech notes, etc)
+teaching: whole page!
+
